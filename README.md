@@ -135,6 +135,20 @@ movie_project/
 │   └── 📗 03_final_report.ipynb  # Main report
 │
 │
+├── 📂 plots/
+│   ├── 🖼️ plot1.png
+│   ├── 🖼️ plot2.png
+│   ├── 🖼️ plot3.png
+│   ├── 🖼️ plot4.png
+│   ├── 🖼️ plot5.png
+│   ├── 🖼️ plot6.png
+│   ├── 🖼️ plot7.png
+│   ├── 🖼️ plot8.png
+│   ├── 🖼️ plot9.png
+│   ├── 🖼️ plot10.png
+│   └── 🖼️ plot11.png
+│
+│
 └── 📂 presentation/
     ├── 🎥 slides.pdf            # PDF backup
     └── 🔗 slides_url.txt        # [Online presentation link](https://docs.google.com/presentation/d/1wF8waaMsLTQoRmjI_cKrhaS_BKM_72nsxtVAFwjLKWU/edit?usp=sharing)
